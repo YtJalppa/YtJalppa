@@ -1,7 +1,7 @@
 - 👋 Hello, my name is Jalppa.
 - 👀 I like to develop Minecraft servers.
-- 🌱 I have been used Skript for 2 years. I am learning Java rn.
-- 💞️ I make collaboration with Thearex12, BanskuDansku and others.
+- 🌱 I have been learning Java to make better Minecraft servers for a year. 
+- 💞️ I make collaboration with Thearex12, Banskudansku and others.
 - 📫 Message me in Discord: jalppa
 
 <!---
